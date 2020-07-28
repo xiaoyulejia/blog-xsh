@@ -490,6 +490,30 @@ ul li {
   border-bottom: 2px #495057;
   transition: border-color 0.2s;
 }
+img.user-avatar:hover {
+  transform: rotate(666turn);
+  transition-delay: 1s;
+  transition-property: all;
+  transition-duration: 59s;
+  transition-timing-function: cubic-bezier(0.34, 0, 0.84, 1);
+}
+div.main-content {
+  background-image: url('https://s1.ax1x.com/2020/07/28/aVAHIJ.png');
+}
+img.friend-avatar:hover {
+  transform: rotate(666turn);
+  transition-delay: 1s;
+  transition-property: all;
+  transition-duration: 59s;
+  transition-timing-function: cubic-bezier(0.34, 0, 0.84, 1);
+}
+img.vavatar.ls-is-cached.lazyloaded:hover {
+  transform: rotate(666turn);
+  transition-delay: 1s;
+  transition-property: all;
+  transition-duration: 59s;
+  transition-timing-function: cubic-bezier(0.34, 0, 0.84, 1);
+}
 .navbar {
   padding: 38px 96px !important;
 }
@@ -1890,7 +1914,3 @@ code::-webkit-scrollbar-thumb:hover {
           background: RGBA(245,186,178,0.14)!important;
         }
          
-      div.main{
-  background-image:url('http://p6.qhimg.com/bdr/__100/t01a96b5f80b894526f.jpg');
-}
-    
