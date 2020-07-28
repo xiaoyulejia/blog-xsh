@@ -1,10 +1,12 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
+
 <head>
     <meta charset="utf-8"/>
 <meta name="description" content=""/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
 
-<title>装机必备 | 小娱乐家的博客</title>
+<title>小娱乐家的博客</title>
 
 <link rel="shortcut icon" href="https://xylj.tk/favicon.ico?v=1595942556309">
 
@@ -25,11 +27,21 @@
 
 
 
+    <script src="https://xylj.tk/media/gridea-search/fuse.basic.min.js"></script>
+    <script src="https://xylj.tk/media/gridea-search/ejs.min.js"></script>
+    <script src="https://xylj.tk/media/gridea-search/gridea-search.js"></script>
+    <script src="https://xylj.tk/media/gridea-search/result-template.ejs" type="text/ejs"></script>
 </head>
+
 <body>
-<div class="main gt-bg-theme-color-first">
-    <div class="main-content">
-        <nav class="navbar navbar-expand-lg">
+    <style>
+        .searched-keyword {
+            background-color: yellow;
+        }
+    </style>
+
+                <div class="main animated">
+                    <nav class="navbar navbar-expand-lg">
     <div class="navbar-brand">
         <img class="user-avatar" src="/images/avatar.png" alt="头像">
         <div class="site-name gt-c-content-color-first">
@@ -83,55 +95,22 @@
         </div>
     </div>
 </nav>
-        <div class="current-tag-container">
-            <h2 class="title gt-c-content-color-first">
-                #装机必备
-            </h2>
-        </div>
-        <div class="post-list-container">
-    <div class="post-inner">
-        
-            <div class="post gt-bg-theme-color-second">
-                <div class="post-left">
-                    <div>
-                        
-                        <a href="https://xylj.tk/post/2020-06-24-资源总和/">
-                            <span class="post-title gt-c-content-color-first">资源总和</span>
-                        </a>
-                    </div>
-                    <div class="gt-post-content post-abstract gt-c-content-color-second">
-                        
-                    </div>
-                    <div class="post-info">
-                        <time class="post-time gt-c-content-color-first">
-                            发布于 · 2020-06-24 ·
-                        </time>
-                        
-                            <a href="https://xylj.tk/tag/KuS2Sn1SL/" class="post-tag">
-                                # 资源
-                            </a>
-                        
-                            <a href="https://xylj.tk/tag/zQikfOdeao/" class="post-tag">
-                                # 实用软件
-                            </a>
-                        
-                            <a href="https://xylj.tk/tag/u3MjsEORL1/" class="post-tag">
-                                # 装机必备
-                            </a>
-                        
+                    <div class="post-container">
+                        <div class="post-detail gt-bg-theme-color-second">
+                            <article class="gt-post-content">
+                                <h2 class="post-title">搜索结果</h2>
+                                <div class="post-content"></div>
+                    <div id="gridea-search-result" data-update="1595942556309">
+                        <div class="searching">搜索中......</div>
+                        <div class="no-result" style="display:none">未搜索到相关文章</div>
                     </div>
                 </div>
-                
-            </div>
-        
+                    </div>
+                </div>
+            </article>
+        </div>
     </div>
-</div>
-        <div class="pagination-container">
-    
-    
-</div>
-
-        <div class="site-footer gt-c-content-color-first">
+    <div class="site-footer gt-c-content-color-first">
     <div class="slogan gt-c-content-color-first">即使你已经习惯了受伤害，也有人看了会心疼的。</div>
     <div class="social-container">
         
@@ -161,7 +140,6 @@
     hljs.initHighlightingOnLoad()
 </script>
 
-    </div>
-</div>
 </body>
+
 </html>
