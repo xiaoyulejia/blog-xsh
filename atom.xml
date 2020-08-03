@@ -1,48 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://xylj.tk</id>
-    <title>小娱乐家的博客</title>
-    <updated>2020-08-01T23:26:04.465Z</updated>
+    <id>https://zx.xylj.tk</id>
+    <title>社团墙</title>
+    <updated>2020-08-03T10:46:05.984Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://xylj.tk"/>
-    <link rel="self" href="https://xylj.tk/atom.xml"/>
-    <subtitle>即使你已经习惯了受伤害，也有人看了会心疼的。</subtitle>
-    <logo>https://xylj.tk/images/avatar.png</logo>
-    <icon>https://xylj.tk/favicon.ico</icon>
-    <rights>All rights reserved 2020, 小娱乐家的博客</rights>
-    <entry>
-        <title type="html"><![CDATA[资源总和]]></title>
-        <id>https://xylj.tk/post/2020-06-24-资源总和/</id>
-        <link href="https://xylj.tk/post/2020-06-24-资源总和/">
-        </link>
-        <updated>2020-06-23T16:00:00.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[跳过广东省公需课]]></title>
-        <id>https://xylj.tk/post/2020-06-20-公需课教程/</id>
-        <link href="https://xylj.tk/post/2020-06-20-公需课教程/">
-        </link>
-        <updated>2020-06-19T16:00:00.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[社会工作结构论]]></title>
-        <id>https://xylj.tk/post/2020-05-29-社会工作结构论/</id>
-        <link href="https://xylj.tk/post/2020-05-29-社会工作结构论/">
-        </link>
-        <updated>2020-05-28T16:00:00.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何正确的上网课]]></title>
-        <id>https://xylj.tk/post/2020-03-30-如何正确的上网课/</id>
-        <link href="https://xylj.tk/post/2020-03-30-如何正确的上网课/">
-        </link>
-        <updated>2020-03-29T16:00:00.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[机场那些事]]></title>
-        <id>https://xylj.tk/post/2020-03-17-机场那些事/</id>
-        <link href="https://xylj.tk/post/2020-03-17-机场那些事/">
-        </link>
-        <updated>2020-03-16T16:00:00.000Z</updated>
-    </entry>
+    <link rel="alternate" href="https://zx.xylj.tk"/>
+    <link rel="self" href="https://zx.xylj.tk/atom.xml"/>
+    <subtitle>2020年光明中学社团招新页面</subtitle>
+    <logo>https://zx.xylj.tk/images/avatar.png</logo>
+    <icon>https://zx.xylj.tk/favicon.ico</icon>
+    <rights>All rights reserved 2020, 社团墙</rights>
 </feed>
