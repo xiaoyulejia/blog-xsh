@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zx.xylj.tk</id>
-    <title>社团墙-调试阶段</title>
-    <updated>2020-08-03T13:02:27.111Z</updated>
+    <title>社团墙</title>
+    <updated>2020-08-03T13:38:51.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zx.xylj.tk"/>
     <link rel="self" href="https://zx.xylj.tk/atom.xml"/>
@@ -10,7 +10,7 @@
 网页由&lt;a href=&quot;https://zx.xylj.tk/post/VZuPoEupr/&quot; target=&quot;_blank&quot;&gt;PC卡基社&lt;/a&gt;社长创建维护</subtitle>
     <logo>https://zx.xylj.tk/images/avatar.png</logo>
     <icon>https://zx.xylj.tk/favicon.ico</icon>
-    <rights>All rights reserved 2020, 社团墙-调试阶段</rights>
+    <rights>All rights reserved 2020, 社团墙</rights>
     <entry>
         <title type="html"><![CDATA[滑板社]]></title>
         <id>https://zx.xylj.tk/post/zkxjfK-bS/</id>
